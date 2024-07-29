@@ -73,5 +73,5 @@ https://github.com/Gamerboisoap1/irrigation-control-and-soil-monitoring-using-so
 
 ## Hardware 
 
-![App Screenshot](https://cdn.discordapp.com/attachments/1222913295649083412/1225304766658252821/WhatsApp_Image_2024-04-04_at_10.13.18_AM.jpeg?ex=6620a4fd&is=660e2ffd&hm=d62aa739990a4381418737e3bc245ec637bba42b19306544d593937f7890379e&)
+![App Screenshot](https://gamerboisoap.in/pics/IMG_2589.JPG)
 
